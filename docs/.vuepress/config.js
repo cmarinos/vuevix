@@ -32,7 +32,7 @@ module.exports = {
                 nav: [
                     { text: 'Getting Started', link: '/guide' },
                     { text: 'Components', link: '/components/' },
-                    { text: 'GitHub', link: '' }
+                    { text: 'GitHub', link: 'https://github.com/cmarinos/vuevix' }
                 ],
                 sidebar: {
                     '/components/': [
