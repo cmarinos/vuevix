@@ -39,11 +39,11 @@ module.exports = {
                         {
                             title: 'Components',
                             collapsable: false,
-                            children: [ 'button']
+                            children: [ 'input']
                         }
                     ]
                 }
             }
         }
     }
-}
+};

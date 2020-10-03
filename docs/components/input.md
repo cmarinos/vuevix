@@ -1,15 +1,15 @@
-# Button
+# Input
 
 Wow! This component is awesome.
 
 ## Example
 
-<Demo componentName="examples-button-doc" />
+<Demo componentName="examples-input-doc" />
 
 ## Source Code
 
 <SourceCode>
-<<< @/src/components/Button/Button.vue
+<<< @/src/components/Input/Input.vue
 </SourceCode>
 
 ## slots
