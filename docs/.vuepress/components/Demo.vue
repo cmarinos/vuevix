@@ -1,4 +1,3 @@
-<!-- Demo.vue -->
 <template>
     <div>
         <component :is="componentName" />
