@@ -1,8 +1,11 @@
 # VueVix
+This a Vue component library for demo purposes. It contains enhanced html elements to be used in any Vue project. Imagine this as html elements on steroids for Vue purposes. :-)
 
-## Project setup
+#Usage
+
+## Install
 ```
-npm install
+npm install --save dev
 ```
 
 ### Compiles and hot-reloads for development
@@ -15,8 +18,8 @@ npm run serve
 npm run build
 ```
 
-### Lints and fixes files
+#Licence
 ```
-npm run lint
+VueVix is open-sourced software licensed under the MIT license.
 ```
 
